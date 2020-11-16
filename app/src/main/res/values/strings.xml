@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversion</string>
+    <string name="monnaie"></string>
+    <string name="radioButton01">euro to dt</string>
+    <string name="radioButton02">dt to euro</string>
+    <string name="bConversion">Convertir</string>
+    <string name="resultat">Résultat</string>
+    <string name="textView">Conversion de monnaie</string>
+
+</resources>
